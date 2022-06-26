@@ -1,2 +1,2 @@
-# smartwatch
-Here, you can find all you need to make a healthy smartwatch.
+# Healthy Smartwatch
+This is my project of a smartwatch that is based on NodeMCU microcontroller and also works with Arduino.
